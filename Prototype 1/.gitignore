@@ -30,6 +30,8 @@ Builds
 Logs
 
 UserSettings/
+./UserSettings
+/UserSettings
 
 # Visual Studio/VSCode generated files
 .vscode/
