@@ -1,0 +1,65 @@
+# Unity generated files
+[Ll]ibrary/
+./Library
+/Library
+Library
+
+[Tt]emp/
+./Temp
+/Temp
+Temp
+
+[Oo]bj/
+./Obj
+/Obj
+Obj
+
+[Bb]uild/
+./Build
+/Build
+Build
+
+[Bb]uilds/
+./Builds
+/Builds
+Builds
+
+[Ll]ogs/
+UserSettings/
+
+# Visual Studio/VSCode generated files
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# Crash reports
+*.crash
+*.stacktrace
+
+# Auto-generated data
+*.pidb.meta
+*.pidb
+
+# Unity3D generated meta files
+*.meta
+
+# Unity3D generated file on crash reports
+*.mem
+
+# Mac specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
