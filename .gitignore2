@@ -25,10 +25,18 @@ Build
 Builds
 
 [Ll]ogs/
+./Logs
+/Logs
+Logs
+
 UserSettings/
 
 # Visual Studio/VSCode generated files
 .vscode/
+./.vscode
+/.vscode
+.vscode
+
 *.csproj
 *.unityproj
 *.sln
